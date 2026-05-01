@@ -1,4 +1,4 @@
-# DNA Methylation Analysis — Bioinformatics Assignment
+# DNA Methylation Analysis 
 
 ## Overview
 
@@ -9,7 +9,7 @@ This repository contains the complete analysis for a bioinformatics assignment c
 ## Repository Structure
 
 ```
-DNA-Methylation-Bioinformatics-Assignment/
+DNA-Methylation/
 ├── README.md
 ├── screenshots/
 │   ├── falco_qc.png
